@@ -1,0 +1,26 @@
+/* fraunces-200 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/fraunces-v38-latin-200.woff2') format('woff2');
+}
+
+/* fraunces-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/fraunces-v38-latin-regular.woff2') format('woff2');
+}
+
+/* fraunces-800 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/fraunces-v38-latin-800.woff2') format('woff2');
+}
